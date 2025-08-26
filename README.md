@@ -8,3 +8,4 @@ This repository contains supplementary materials for the paper:
 - **Data**: Anonymized examples and aggregated tables
 - **Code**: Scripts for preprocessing, extraction, and analysis
 - **Note**: Original raw data cannot be shared due to privacy and copyright restrictions
+英語ベースで国際読者向け
