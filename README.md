@@ -8,3 +8,5 @@ This repository contains supplementary materials for the paper:
 - **Data**: Anonymized examples and aggregated tables
 - **Code**: Scripts for preprocessing, extraction, and analysis
 - **Note**: Original raw data cannot be shared due to privacy and copyright restrictions
+## データ
+- [表4.1 誤用事例 (CSV)](./data/table4-1_misuse.csv)
